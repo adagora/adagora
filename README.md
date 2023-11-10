@@ -1,28 +1,23 @@
-# Hi there 👋
-
+# Hi there
 👨🏾‍💻 I'm Adrian.
 
 ## 🌱 Currently Learning
-
-- 📜 Smart Contract Development
+- 📜 Smart Contract Development (AIKEN & SOLIDITY)
 - ⛓️ Blockchains and Distributed Systems
-- ⚡ Rust language
 
 ## 🛠️ Languages and Tools
-
-- React
+- JavaScript
 - TypeScript
-- Rust
+- React
+- Next.js
+- Node.js
+- PostgreSQL
 - Git
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adagora&layout=compact&hide=jupyter%20Notebook&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📈 Some Stats
-
-I love contributing to open-source stuff
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adagora&theme=dark)](https://git.io/streak-stats)
-
 
 ![adagora's GitHub stats](https://github-readme-stats.vercel.app/api?username=adagora&show_icons=true&theme=dark)
 <!---
