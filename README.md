@@ -1,6 +1,6 @@
 # Adrian Góra · AI Engineer (LLM, RAG, agents) 🇵🇱
 
-Ex-automotive CAD & materials engineer with web3 experience (Solidity, Cardano). **Open to AI/Software Engineer and Web3 roles.**
+Automotive CAD & materials engineer with web3 experience (Solidity, Cardano). **Open to AI/Software Engineer and Web3 roles.**
 
 ### Projects
 - **[PDF-Insight](https://github.com/adagora/PDF-Insight)** ([demo](https://adagora.github.io/PDF-Insight/)): PDF → validated JSON, 298 tests, p95 29.1 s
@@ -11,6 +11,13 @@ Ex-automotive CAD & materials engineer with web3 experience (Solidity, Cardano).
 - **[CAD quoting](https://github.com/adagora/cad-tools/tree/wycena/w1-foundation/skills/wycena)**: machined-part price straight from a STEP file
 - **loop-me** *(private)*: agent interviews employees, outputs automation specs with ROI
 - **[HSS-heat-treatment](https://github.com/adagora/HSS-heat-treatment)**: steel quench simulation with a narrated manim explainer
+- **meat** *(private)*: turns large code diffs into focused reading diffs
+- **Transport planner** *(private)*: Excel orders → loaded trucks, routes, 3D plans
+- **Fable RAG** *(private)*: cites price lists and datasheets, opens PDF at the right page
+- **Teams transcript processor** *(private)*: Microsoft Graph → LLM → structured meeting reports
+- **SO-ARM100 control** *(private)*: browser calibration and control for a robot arm
+- **allegro-auto-sell** *(private)*: agent skill selling on Allegro with human approval
+- **har** *(private)*: browser traffic → documented API with curl templates
 
 **Stack:** TypeScript · Python · Go · Solidity · React/Next.js · Node/Bun · FastAPI · PostgreSQL · LLM APIs · Playwright/pytest
 
