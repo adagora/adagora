@@ -6,8 +6,7 @@ Automotive CAD & materials engineer with web3 experience (Solidity, Cardano). **
 - **[PDF-Insight](https://github.com/adagora/PDF-Insight)** ([demo](https://adagora.github.io/PDF-Insight/)): PDF → validated JSON, 298 tests, p95 29.1 s
 - **Cairn** *(private)*: evidence CLI for manufacturing process routing (Go)
 - **[translate-audit](https://github.com/adagora/jev-experiments)**: LLM judge, 99,933 judgments in 3 min
-- **EternalChat** *(private)*: chat whose conversation is its memory, zero dependencies
-  <!-- after publishing: - **[EternalChat](https://github.com/adagora/EternalChat)**: chat whose conversation is its memory (UniiChat design), zero dependencies -->
+- **[EternalChat](https://github.com/adagora/EternalChat)**: chat whose conversation is its memory (UniiChat design), zero dependencies
 - **[Visual RAG](https://github.com/adagora/try_pixelRAG_optional_BM25_hybrid_JEV)**: pixel-level page retrieval + BM25 hybrid, cited answers
 - **[CAD quoting](https://github.com/adagora/cad-tools/tree/wycena/w1-foundation/skills/wycena)**: machined-part price straight from a STEP file
 - **loop-me** *(private)*: agent interviews employees, outputs automation specs with ROI
