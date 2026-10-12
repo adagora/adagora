@@ -11,8 +11,7 @@ Automotive CAD & materials engineer with web3 experience (Solidity, Cardano). **
 - **[CAD quoting](https://github.com/adagora/cad-tools/tree/wycena/w1-foundation/skills/wycena)**: machined-part price straight from a STEP file
 - **loop-me** *(private)*: agent interviews employees, outputs automation specs with ROI
 - **[HSS-heat-treatment](https://github.com/adagora/HSS-heat-treatment)**: steel quench simulation with a narrated manim explainer
-- **meat** *(private)*: turns large code diffs into focused reading diffs
-  <!-- after publishing: - **[meat](https://github.com/adagora/diff-explain)**: turns large code diffs into focused reading diffs -->
+- **[meat](https://github.com/adagora/diff-explain)**: turns large code diffs into focused reading diffs
 - **Transport planner** *(private)*: Excel orders → loaded trucks, routes, 3D plans
 - **Chatbot** *(private)*: RAG for complex-layout PDFs; optional API-driven decisions, standard pipeline fallback
 - **Teams transcript processor** *(private)*: Microsoft Graph → LLM → structured meeting reports
