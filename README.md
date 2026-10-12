@@ -7,13 +7,15 @@ Automotive CAD & materials engineer with web3 experience (Solidity, Cardano). **
 - **Cairn** *(private)*: evidence CLI for manufacturing process routing (Go)
 - **[translate-audit](https://github.com/adagora/jev-experiments)**: LLM judge, 99,933 judgments in 3 min
 - **EternalChat** *(private)*: chat whose conversation is its memory, zero dependencies
-- **[Visual RAG](https://github.com/adagora/try_pixelRAG_optional_BM25_hybrid_JEV)**: answers from technical PDF page images, with citations
+  <!-- after publishing: - **[EternalChat](https://github.com/adagora/EternalChat)**: chat whose conversation is its memory (UniiChat design), zero dependencies -->
+- **[Visual RAG](https://github.com/adagora/try_pixelRAG_optional_BM25_hybrid_JEV)**: pixel-level page retrieval + BM25 hybrid, cited answers
 - **[CAD quoting](https://github.com/adagora/cad-tools/tree/wycena/w1-foundation/skills/wycena)**: machined-part price straight from a STEP file
 - **loop-me** *(private)*: agent interviews employees, outputs automation specs with ROI
 - **[HSS-heat-treatment](https://github.com/adagora/HSS-heat-treatment)**: steel quench simulation with a narrated manim explainer
 - **meat** *(private)*: turns large code diffs into focused reading diffs
+  <!-- after publishing: - **[meat](https://github.com/adagora/diff-explain)**: turns large code diffs into focused reading diffs -->
 - **Transport planner** *(private)*: Excel orders → loaded trucks, routes, 3D plans
-- **Fable RAG** *(private)*: cites price lists and datasheets, opens PDF at the right page
+- **Chatbot** *(private)*: RAG for complex-layout PDFs; optional API-driven decisions, standard pipeline fallback
 - **Teams transcript processor** *(private)*: Microsoft Graph → LLM → structured meeting reports
 - **SO-ARM100 control** *(private)*: browser calibration and control for a robot arm
 - **allegro-auto-sell** *(private)*: agent skill selling on Allegro with human approval
@@ -22,9 +24,8 @@ Automotive CAD & materials engineer with web3 experience (Solidity, Cardano). **
 **Stack:** TypeScript · Python · Go · Solidity · React/Next.js · Node/Bun · FastAPI · PostgreSQL · LLM APIs · Playwright/pytest
 
 <p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=adagora&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true" alt="GitHub stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adagora&layout=compact&hide=jupyter%20notebook,html,css&theme=dark&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adagora&layout=compact&hide=jupyter%20notebook,html,css&theme=dark&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://streak-stats.demolab.com?user=adagora&theme=dark&hide_border=true" alt="GitHub streak" />
 </p>
-<img height="150" src="https://streak-stats.demolab.com?user=adagora&theme=dark&hide_border=true" alt="GitHub streak" />
 
 📫 [adagora.github.io](https://adagora.github.io) · [LinkedIn](https://www.linkedin.com/in/adrian-gora/) · [X](https://x.com/AdrianGra1)
